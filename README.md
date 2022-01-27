@@ -5,7 +5,7 @@
   
 - 💬 Podemos hablar sobre **php, javascript, css, html**
   
-- 📫 Me puedes contactar <a href="https://www.likeadev.tech/contacto" target="_blank">**aquí**</a>
+- 📫 Me puedes contactar <a href="https://www.tuasesor.digital/contacto" target="_blank">**aquí**</a>
   
 
 <h3 align="left">Puedes encontrarme en:</h3>  
