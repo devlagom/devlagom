@@ -3,7 +3,7 @@
 
 - 🌱 Aprendiendo **React** y **Nextjs**
   
-- 💬 Mis fuertes son **Php** y **Javascript**
+- 💬 Mis fuertes son **Php**, **Javascript** y **SQL**
   
 - 📫 Me puedes contactar <a href="mailto:o_riascos@proton.me" target="_blank">**aquí**</a>
   
