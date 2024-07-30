@@ -1,9 +1,9 @@
 <h1 align="center">Oscar Riascos</h1>  
-<h3 align="center">Full Stack developer</h3>
+<h3 align="center">Frontend developer</h3>
 
 - 🌱 Aprendiendo **React** y **Nextjs**
   
-- 💬 Mis fuertes son **Php**, **Javascript** y **SQL**
+- 💬 Mis fuertes son, **Svelte**, **Php**, **Javascript** y **SQL**
   
 - 📫 Me puedes contactar <a href="mailto:o_riascos@proton.me" target="_blank">**aquí**</a>
   
