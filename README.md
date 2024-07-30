@@ -5,7 +5,7 @@
   
 - 💬 Mis fuertes son, **Svelte**, **Php**, **Javascript** y **SQL**
   
-- 📫 Me puedes contactar <a href="mailto:o_riascos@proton.me" target="_blank">**aquí**</a>
+- 📫 Me puedes contactar <a href="mailto:oscar_riascos@outlook.com" target="_blank">**aquí**</a>
   
 
 <h3 align="left">También estoy en...</h3>  
